@@ -2,6 +2,33 @@
 
 Yıldız Teknik Üniversitesi Mobil Programlama Dersi 2. Ödevi (mp3 çalar uygulaması)
 
+# Özellikler
+1. Kullanıcı Giriş Ekranı
+-Şifre Kontrol, Hata Mesajları, Başarılı Giriş Mesajı
+-3 defa yanlış bilgi girişinde kayıt sayfasına yönlendirme
+2. Kayıt Ekranı
+-Kullanıcı bilgileri alma (resim de dahil)
+-Hata mesajları, veritabanı kontrolü
+-Kayıt oluşturduktan sonra, kayıt için kullanılan mail adresine kullanıcı bilgileri gönderilir. (intent)
+3. Menü Ekranı
+-.mp3 uzantılı şarkıların listeleneceği media kısmına ve playlistlerin oluşturulacağı kısma yönlendirme.
+4. Media ekranı
+-External storage içerisindeki .mp3 dosyalarını isimlerine göre alfabetik olarak listeleme
+-.mp3 dosyalarını mesajlaşma uygulamaları aracılığı ile paylaşma (intent)
+-.mp3 dosyalarını telefondan ve recyclerView'dan silme (Android 11)
+5. MediaPlayer Ekranı
+-Şarkının çalması ve durdurulması için play, stop, pause butonları
+-Seekbar üzerinde şarkının istenilen dakika:saniyesine gidebilme
+-Şarkı ismi ve resminin aktivite üzerinde gösterilmesi
+-Previous ve Next butonları ile telefondaki tüm şarkılar içinde gezinebilme (playlist seçilirse playlist içindeki şarkılar gezilebilir)
+6. Playlistler Ekranı
+-Oluşturulan playlistler isimleriyle berbaer listelenir
+-Playlistler telefonda kalıcı olarak tutulup, silinebilir. (shared preferences)
+7. Playlist Oluşturma Ekranı
+-External storage içerisindeki seçilen .mp3 dosyalarını ekleyerek playlist oluşturma
+
+
+
 # Bilgi
 
 
