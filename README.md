@@ -3,8 +3,8 @@
 Yıldız Teknik Üniversitesi Mobil Programlama Dersi 2. Ödevi (mp3 çalar uygulaması)
 
 # Özellikler
-1. Kullanıcı Giriş Ekranı
--Şifre Kontrol, Hata Mesajları, Başarılı Giriş Mesajı
+1. Kullanıcı Giriş Ekranı \
+-Şifre Kontrol, Hata Mesajları, Başarılı Giriş Mesajı \n
 -3 defa yanlış bilgi girişinde kayıt sayfasına yönlendirme
 2. Kayıt Ekranı
 -Kullanıcı bilgileri alma (resim de dahil)
